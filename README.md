@@ -9,7 +9,7 @@
 
 ![](https://visitor-badge.glitch.me/badge?page_id=arunsridher)
 
-My name is Arunsridher and I"m a Software Engineer who is passionate about building tech, teaching and learning new technologies 
+My name is Marcos Rangel I am a mobile developer passionate about technology, crazy about Linux and software development. Above all a dreamer 
 
 ### 🛠 &nbsp;Tech Stack
 
