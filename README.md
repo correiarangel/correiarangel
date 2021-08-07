@@ -18,16 +18,12 @@ My name is Marcos Rangel I am a mobile developer passionate about technology, cr
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C)
 <br />
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
-![Flutter](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
-
-
+![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
+![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
 <br />
-![Firebase](https://img.shields.io/badge/-CodeIgniter-05122A?style=flat&logo=CodeIgniter)&nbsp;
 ![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=MySQL)&nbsp;
 <br />
 ![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java&logoColor=FFA518)&nbsp;
-![Unity3D](https://img.shields.io/badge/-Unity3D-05122A?style=flat&logo=Unity3D&logoColor=FFA518)&nbsp;
-
 <br />
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
@@ -43,6 +39,10 @@ My name is Marcos Rangel I am a mobile developer passionate about technology, cr
  
  <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=arunsridher&theme=radical" alt="arunsridher" /></p>
  
- <br />second customization 
+ <br />
  
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=arunsridher&bg_color=000000&color=4fff67&line=4fff67&point=ffffff&area=true&hide_border=true)  
+
+
+
+
