@@ -6,16 +6,15 @@
 <a href="https://www.facebook.com/marcosfabiano.correiarangel">
   <img align="left" alt="Marcos Rangel | Facebook" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/facebook.svg" />
 </a>
-<a href="https://medium.com/@wendreof"><img src="https://img.shields.io/badge/Medium-%23000000.svg?style=for-the-badge&logo=Medium&logoColor=white"/></a>
 
 ![](https://visitor-badge.glitch.me/badge?page_id=correiarangel)
 
-Develops mobile applications hybrid with Flutter for IOS/Android and native in Kotlin/Java.
-Passionate about software development and LINUX!
+##### Develops mobile applications hybrid with Flutter for IOS/Android and native in Kotlin/Java.
+##### Passionate about software development and LINUX!
 
-It is not necessary to know everything to be a good DevDeveloper, but to be willing to learn a mentor and persistence.
+##### It is not necessary to know everything to be a good DevDeveloper, but to be willing to learn a mentor and persistence.
 
-The only way to get to the impossible is to believe it's possible. 
+#### The only way to get to the impossible is to believe it's possible. 
 
 ### 🛠 &nbsp;&nbsp;Tech Stack
 
