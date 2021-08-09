@@ -24,15 +24,11 @@ The only way to get to the impossible is to believe it's possible.
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
 
-<br/>
+<br>
 
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
-
-<br />
-
-
-<br />
+<br>
   <a href="github.com/correiarangel">
   <img src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white"/>
   <img src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white" />
@@ -46,7 +42,7 @@ The only way to get to the impossible is to believe it's possible.
   <img src="https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white"/>
   <br> <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white"/>
   <img src="https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white"/>
-<br />
+<br>
   <img src="https://img.shields.io/badge/-Eclipse-05122A?style=flat&logo=eclipse-ide&logoColor=2C2255"/>
   <img src="https://img.shields.io/badge/-NetBeans-05122A?style=flat&logo=NetBeans-ide&logoColor=2C2255"/>
 <br>
@@ -58,6 +54,6 @@ The only way to get to the impossible is to believe it's possible.
  
  <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=correiarangel&theme=radical" alt="arunsridher" /></p>
  
- <br />
+ <br>
  
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=correiarangel&bg_color=000000&color=4fff67&line=4fff67&point=ffffff&area=true&hide_border=true)  
