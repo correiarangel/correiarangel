@@ -12,9 +12,7 @@
 ##### Develops mobile applications hybrid with Flutter for IOS/Android and native in Kotlin/Java.
 ##### Passionate about software development and LINUX!
 
-##### It is not necessary to know everything to be a good DevDeveloper, but to be willing to learn a mentor and persistence.
-
-#### The only way to get to the impossible is to believe it's possible. 
+### The only way to get to the impossible is to believe it's possible. 
 
 ### 🛠 &nbsp;&nbsp;Tech Stack
 
@@ -40,8 +38,6 @@
   <img src="https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white"/>
   <br> 
   <img src="https://img.shields.io/badge/AndroidStudio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Eclipse-000000.svg?style=for-the-badge&logo=eclipse-idea&logoColor=white"/>
-  <img src="https://img.shields.io/badge/NetBeans-000000.svg?style=for-the-badge&logo=netbeans-idea&logoColor=white"/>
   <br> 
   <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white"/>
   <img src="https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white"/>
