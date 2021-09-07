@@ -2,7 +2,8 @@
 
 <a href="https://www.linkedin.com/in/marcos-fabiano-correia-rangel/">
   <img align="left" alt="Marcos Rangel' LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" /> Linkedin Always On 
-</a>
+</a><br>
+
 <a href="https://www.facebook.com/marcosfabiano.correiarangel">
   <img align="left" alt="Marcos Rangel | Facebook" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/facebook.svg" /> Facebook sporadically on
 </a>
