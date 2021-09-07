@@ -7,11 +7,6 @@
 </a>
 <br><br>
 
-<a href="https://www.facebook.com/marcosfabiano.correiarangel">
-  <img align="left" alt="Marcos Rangel | Facebook" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/facebook.svg" /> Facebook sporadically on
-</a>
-<br>
-
 
 ##### Develops mobile applications hybrid with Flutter for IOS/Android and native in Kotlin/Java.
 ##### Passionate about software development and LINUX!
