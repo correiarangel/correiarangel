@@ -8,8 +8,8 @@
 <br><br>
 
 
-##### Develops mobile applications hybrid with Flutter for IOS/Android and native in Kotlin/Java.
-##### Passionate about software development and LINUX!
+#### Flutter Android/IOS Developer
+#### Passionate about software development and LINUX!
 
 ### The only way to get to the impossible is to believe it's possible. 
 
@@ -22,9 +22,10 @@
 ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
-
+![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)&nbsp;
+ 
   <a href="github.com/correiarangel">
-  
+ 
   <img src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white" />
   <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white" />
   <img src="https://img.shields.io/badge/kotlin-%230095D5.svg?style=for-the-badge&logo=kotlin&logoColor=white"/>
