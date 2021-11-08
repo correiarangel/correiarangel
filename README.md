@@ -8,7 +8,7 @@
 <br><br>
 
 
-#### Flutter Android/IOS Developer
+#### Flutter Developer
 #### Passionate about software development and LINUX!
 
 ### The only way to get to the impossible is to believe it's possible. 
