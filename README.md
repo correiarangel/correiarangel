@@ -38,11 +38,13 @@
   <br> 
   <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white"/>&nbsp;
   <img src="https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white"/>&nbsp;
+  
   <br>
-  ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
-  ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
-  ![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C)&nbsp;
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
+    <img src="https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5&logoColor=white"/>&nbsp;
+      <img src="https://img.shields.io/badge/CSS-000000?style=for-the-badge&logo=css&logoColor=white"/>&nbsp;
+    <img src="https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=Script&logoColor=white"/>&nbsp;    
+    <img src="https://img.shields.io/badge/Bootstrap-000000?style=for-the-badge&logo=Bootstrap&logoColor=white"/>&nbsp;
+    <br>
 
 ## &#x1f4c8; GitHub Stats
 
