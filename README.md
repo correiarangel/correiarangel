@@ -18,7 +18,8 @@
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 
-
+<img src="https://img.shields.io/badge/Git-%05122A.svg?style=for-the-badge&logo=Git&logoColor=white" />&nbsp;
+ <img src="https://img.shields.io/badge/GitHub-%05122A.svg?style=for-the-badge&logo=GitHub&logoColor=white" />&nbsp;
  
   <a href="github.com/correiarangel">
  
