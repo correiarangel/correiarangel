@@ -2,8 +2,7 @@
 
 ![](https://visitor-badge.glitch.me/badge?page_id=correiarangel)
 
-<a href="https://www.linkedin.com/in/marcos-fabiano-correia-rangel/">
-  <img align="left" alt="Marcos Rangel' LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" /></a>
+<a href="https://www.linkedin.com/in/marcos-fabiano-correia-rangel/">LinkedIN</a>
 <br><br>
 
 
