@@ -3,8 +3,6 @@
 ![](https://visitor-badge.glitch.me/badge?page_id=correiarangel)
 
 <a href="https://www.linkedin.com/in/marcos-fabiano-correia-rangel/">LinkedIN</a>
-<br><br>
-
 
 #### Flutter Developer
 #### Passionate about software development and LINUX!
