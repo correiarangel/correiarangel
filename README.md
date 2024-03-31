@@ -3,8 +3,6 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-f8f8f2?style=for-the-badge&logo=linkedin&logoColor=0E76A8)](https://www.linkedin.com/in/marcos-fabiano-correia-rangel/)
 
-[GitHub](https://github.com/correiarangel)
-
 #### Flutter Developer
 #### Passionate about software development and LINUX!
 
