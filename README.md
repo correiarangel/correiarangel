@@ -43,3 +43,5 @@ Passionate about software development, Linux, and continuously learning.
 ## 📊 GitHub Stats
 
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=correiarangel&show_icons=true&theme=dark&hide=issues&hide_border=true)
+
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=correiarangel&show_icons=true&hide=issues&hide_border=true)
