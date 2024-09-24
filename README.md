@@ -18,6 +18,7 @@ Passionate about software development, Linux, and continuously learning.
 - ![Dart](https://img.shields.io/badge/Dart-%2302569B.svg?style=flat-square&logo=Dart&logoColor=white)
 - ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat-square&logo=java&logoColor=white)
 - ![Kotlin](https://img.shields.io/badge/Kotlin-%230095D5.svg?style=flat-square&logo=kotlin&logoColor=white)
+- ![Spring Boot](https://img.shields.io/badge/Spring_Boot-%236DB33F.svg?style=flat-square&logo=spring&logoColor=white)
 
 **Databases & Back-End**
 - ![MySQL](https://img.shields.io/badge/MySQL-%2300f.svg?style=flat-square&logo=mysql&logoColor=white)
@@ -41,14 +42,4 @@ Passionate about software development, Linux, and continuously learning.
 
 ## 📊 GitHub Stats
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=correiarangel&show_icons=true&hide=issues&hide_border=true)
-
-
-<p align="left"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=correiarangel&show_icons=true&locale=en&layout=compact&theme=radical" alt="Marcos Rangel" /></p>
-
-  
- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=correiarangel&theme=radical" alt="Marcos Rangel" /></p>
- 
-
-
- 
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=correiarangel&show_icons=true&theme=dark&hide=issues&hide_border=true)
