@@ -43,3 +43,8 @@ Passionate about software development, Linux, and continuously learning.
 ## 📊 GitHub Stats
 
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=correiarangel&show_icons=true&theme=dark&hide=issues&hide_border=true)
+
+<p align="left"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=correiarangel&show_icons=true&locale=en&layout=compact&theme=radical" alt="Marcos Rangel" /></p>
+
+  
+ <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=correiarangel&theme=radical" alt="Marcos Rangel" /></p>
