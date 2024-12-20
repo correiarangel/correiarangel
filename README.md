@@ -18,9 +18,12 @@ Passionate about software development, Linux, and continuously learning.
 - ![Dart](https://img.shields.io/badge/Dart-%2302569B.svg?style=flat-square&logo=Dart&logoColor=white)
 - ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat-square&logo=java&logoColor=white)
 - ![Kotlin](https://img.shields.io/badge/Kotlin-%230095D5.svg?style=flat-square&logo=kotlin&logoColor=white)
-- ![Spring Boot](https://img.shields.io/badge/Spring_Boot-%236DB33F.svg?style=flat-square&logo=spring&logoColor=white)
 
-**Databases & Back-End**
+**Back-End**
+- ![Spring Boot](https://img.shields.io/badge/Spring_Boot-%236DB33F.svg?style=flat-square&logo=spring&logoColor=white)
+- ![Flask](https://img.shields.io/badge/Flask-%2328A745.svg?style=flat-square&logo=python&logoColor=white)
+
+**Databases**
 - ![MySQL](https://img.shields.io/badge/MySQL-%2300f.svg?style=flat-square&logo=mysql&logoColor=white)
 - ![Firebase](https://img.shields.io/badge/Firebase-%23ED8B00.svg?style=flat-square&logo=firebase&logoColor=white)
 
