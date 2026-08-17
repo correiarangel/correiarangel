@@ -1,23 +1,16 @@
-
 <div align="center">
   <h3>Olá, eu sou o Marcos Rangel! 👋 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h3>
-  <p><b>Desenvolvedor .NET | Flutter | Mobile | Entusiasta Linux </b></p>
-
-<p>
-    <a href="https://www.linkedin.com/in/marcos-fabiano-correia-rangel/">
-      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-    </a>
-    <img src="https://komarev.com/ghpvc/?username=correiarangel&color=blueviolet" alt="Visitor Count" />
-  </p>
-</div>
+  <p><b>Desenvolvedor Flutter | Mobile | .NET | Entusiasta Linux </b></p>
 
 ---
 
 ### 🚀 Sobre Mim
 
-Sou desenvolvedor apaixonado por criar soluções multiplataforma, com interesse em natureza, música, felinos, tecnologia, astronomia e no ecossistema Linux. Atuei 5 anos com desenvolvimento mobile, sendo 4 anos com Flutter e Dart para Android e iOS e, nos últimos 14 meses, com .NET, C#, Blazor e MAUI, também com foco em aplicações web.
+Atuo há 5 anos com desenvolvimento mobile multiplataforma, com experiência sólida na publicação de aplicativos para Android e iOS. A maior parte desse período (4 anos) foi dedicada a Flutter e Dart, com passagens também por Cordova (3 meses) e Android nativo (6 meses).
 
-Tenho experiência com Firebase, MySQL, PostgreSQL, Docker (iniciante), APIs REST (iniciante) e versionamento usando Git, GitHub e GitLab. Trabalho com testes unitários, metodologias ágeis e busco aplicar boas práticas como Clean Architecture, princípios SOLID, Design Patterns, além de conhecimentos básicos em Java. Meu foco é entregar boa experiência de usuário e performance.
+Atuei tambem 16 meses com .NET, C# e Blazor WASM no desenvolvimento e manutenção de  sistema B2B, além do .NET MAUI Blazor Hybrid na versão mobile, publicada para Android e iOS.
+
+Fora do código, meus interesses passam por natureza, camping, música, felinos, astronomia e o ecossistema Linux.
 
 > *"A única maneira de chegar ao impossível é acreditar que é possível."*
 >
@@ -43,17 +36,12 @@ Tenho experiência com Firebase, MySQL, PostgreSQL, Docker (iniciante), APIs RES
   <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
   <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=.net&logoColor=white" />
   <img src="https://img.shields.io/badge/Blazor-512BD4?style=for-the-badge&logo=blazor&logoColor=white" />
-  <img src="https://img.shields.io/badge/MAUI-512BD4?style=for-the-badge&logo=.net&logoColor=white" /> 
-  <img src="https://img.shields.io/badge/Android-3DDC84?style=flat&logo=android&logoColor=white" />
-  <img src="https://img.shields.io/badge/iOS-000000?style=flat&logo=ios&logoColor=white" />
-  <img src="https://img.shields.io/badge/Web-4285F4?style=flat&logo=google-chrome&logoColor=white" />
+  <img src="https://img.shields.io/badge/MAUI-512BD4?style=for-the-badge&logo=.net&logoColor=white" />
 </p>
 
-#### 🌐 Back-End & Outras Linguagens
+#### 🌐 Outras Linguagens
 
 <p align="left">
-  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
-  <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=.net&logoColor=white" /><b> (Iniciante) </b>
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" /> <b> (Iniciante) </b>
   <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" /> <b> (Iniciante) </b>
 </p>
