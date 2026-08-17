@@ -1,6 +1,6 @@
 <div align="center">
   <h3>Olá, eu sou o Marcos Rangel! 👋 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h3>
-  <p><b>Desenvolvedor Flutter | Mobile | .NET | Entusiasta Linux </b></p>
+  <p><b>Desenvolvedor .NET | Flutter | Mobile | Entusiasta Linux </b></p>
 
 ---
 
@@ -36,12 +36,17 @@ Fora do código, meus interesses passam por natureza, camping, música, felinos,
   <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
   <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=.net&logoColor=white" />
   <img src="https://img.shields.io/badge/Blazor-512BD4?style=for-the-badge&logo=blazor&logoColor=white" />
-  <img src="https://img.shields.io/badge/MAUI-512BD4?style=for-the-badge&logo=.net&logoColor=white" />
+  <img src="https://img.shields.io/badge/MAUI-512BD4?style=for-the-badge&logo=.net&logoColor=white" /> 
+  <img src="https://img.shields.io/badge/Android-3DDC84?style=flat&logo=android&logoColor=white" />
+  <img src="https://img.shields.io/badge/iOS-000000?style=flat&logo=ios&logoColor=white" />
+  <img src="https://img.shields.io/badge/Web-4285F4?style=flat&logo=google-chrome&logoColor=white" />
 </p>
 
-#### 🌐 Outras Linguagens
+#### 🌐 Back-End & Outras Linguagens
 
 <p align="left">
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
+  <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=.net&logoColor=white" /><b> (Jr) </b>
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" /> <b> (Iniciante) </b>
   <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" /> <b> (Iniciante) </b>
 </p>
